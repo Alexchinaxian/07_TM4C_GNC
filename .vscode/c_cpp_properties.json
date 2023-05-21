@@ -4,7 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/bsp/inc"
+                "${workspaceFolder}/driverlib",
+                "${workspaceFolder}/inc",
+                "${workspaceFolder}/BSP/inc"
             ],
             "defines": [
                 "_DEBUG",
@@ -14,7 +16,8 @@
             "windowsSdkVersion": "10.0.17763.0",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "windows-gcc-arm64",
+            "compilerPath": "C:/Users/ALEX/AppData/Local/Programs/Microsoft VS Code/mingw64/bin/gcc.exe"
         }
     ],
     "version": 4
