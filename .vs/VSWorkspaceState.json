@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "1",
+      "includePath": [
+        "${workspaceFolder}\\bsp\\inc",
+        "${workspaceFolder}"
+      ],
+      "defines": [
+        "_PART_TM4C1290NCZAD_"
+      ],
+      "intelliSenseMode": "",
+      "compilerPath": "",
+      "cStandard": "c17",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
