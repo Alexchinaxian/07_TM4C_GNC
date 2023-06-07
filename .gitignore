@@ -1,3 +1,7 @@
 #屏蔽上传debug文件夹
 .Debug
 /Debug/
+<<<<<<< HEAD
+=======
+/Debug__TI/
+>>>>>>> 40e28b3e1ee9766038af07e4935242828c6090d5
