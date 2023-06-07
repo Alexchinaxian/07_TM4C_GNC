@@ -1,3 +1,13 @@
 {
-  "C_Cpp.errorSquiggles": "disabled"
+    "files.associations": {
+        "sysctl.h": "c",
+        "stdbool.h": "c",
+        "bl_config.h": "c",
+        "hw_memmap.h": "c",
+        "bsp_moudbus.h": "c",
+        "stdint.h": "c",
+        "main.h": "c",
+        "rom_map.h": "c",
+        "timer.h": "c"
+    }
 }

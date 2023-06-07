@@ -1,2 +1,3 @@
 #屏蔽上传debug文件夹
 .Debug
+/Debug/
